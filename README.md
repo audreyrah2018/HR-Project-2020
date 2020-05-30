@@ -1,5 +1,4 @@
 Project: Job satisfaction, HR project
-By: Audrey Rahimi
 
 This project enables the user to know the level of job satisfaction according to different criteria such as age, job level, distance, gender, marital status and monthly income. 
 This work splits into 6 important sections such as:
