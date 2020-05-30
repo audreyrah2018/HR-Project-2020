@@ -8,7 +8,7 @@ This work splits into 6 important sections such as:
 3.	Determining features and targets.
 4.	Training and testing with NeighborsClassifier method.
 5.	Plotting job level /satisfaction based on the given data.
-6.	Prediction the level of job satisfaction of the new employee by getting information of the them.
+6.	Prediction the level of job satisfaction of employee by getting information.
 
 Data is in CSV format and the programing language that used is in Python.
 
