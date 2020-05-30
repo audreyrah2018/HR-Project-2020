@@ -4,7 +4,7 @@ This project enables the user to know the level of job satisfaction according to
 This work splits into 6 important sections such as:
 
 1.	Preprocessing, data cleaning.
-2.	Using test accuracy method to evaluate the accuracy rate of project.
+2.	Using test accuracy method to evaluate the accuracy rate.
 3.	Determining features and targets.
 4.	Training and testing with NeighborsClassifier method.
 5.	Plotting job level /satisfaction based on the given data.
